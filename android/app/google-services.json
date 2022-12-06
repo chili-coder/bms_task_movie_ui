@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652703199125",
+    "project_id": "bms-task",
+    "storage_bucket": "bms-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652703199125:android:84c8c5ca4c4a2a67d1509c",
+        "android_client_info": {
+          "package_name": "com.sohagh.bms_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652703199125-t43alb3rest1bm59oshgmfdk3h6k3otr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsNTVh_RpnF6rGhgrP2u3RWUHH3iQkku8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652703199125-t43alb3rest1bm59oshgmfdk3h6k3otr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
